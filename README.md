@@ -2,4 +2,8 @@
 
 ##goal
 
-click the mole before going to a diferent pipe BUT be cerfull DONT click the bomb, otherwise you will lose
+click the mole before going to a different pipe BUT be careful DONT click the bomb. Otherwise you will lose.
+
+##controls
+
+mouse.
